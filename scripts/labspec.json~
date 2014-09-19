@@ -17,83 +17,21 @@
             }
         }, 
         "description": {
-            "developer": [
-                {
+            "developer": {
                     "contact": {
                         "alternate_email": "", 
-                        "email": "jawahar@iiit.ac.in", 
+                        "email": "vikas53.kashyap@gmail.com", 
                         "mobile_number": "", 
                         "office_number": ""
                     }, 
                     "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Jawahar C.V", 
+                    "institute": "IIT Roorkee", 
+                    "name": "Vikas Kashyap", 
                     "organization": "", 
                     "role": "Lab Developer", 
                     "title": "", 
                     "web": ""
                 }, 
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "phani@iiit.ac.in", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Phani Phani", 
-                    "organization": "", 
-                    "role": "Lab RA", 
-                    "title": "", 
-                    "web": ""
-                }, 
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "kumarsrijan@students.iiit.ac.in", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Kumar Srijan", 
-                    "organization": "", 
-                    "role": "Lab RA", 
-                    "title": "", 
-                    "web": ""
-                }, 
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "jayaguru.pandaug08@students.iiit.ac.in", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Jay Panda", 
-                    "organization": "", 
-                    "role": "Lab RA", 
-                    "title": "", 
-                    "web": ""
-                }, 
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "shashank.sharmaug08@students.iiit.ac.in", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "IIIT Hyderabad", 
-                    "name": "Shashank Sharma", 
-                    "organization": "", 
-                    "role": "Lab RA", 
-                    "title": "", 
-                    "web": ""
-                }
-            ], 
             "discipline": [
                 "Computer Science & Engineering"
             ], 
