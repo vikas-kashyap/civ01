@@ -47,7 +47,7 @@
                 "arch": "i386", 
                 "hosting": "dedicated", 
                 "installer": ["sudo apt-get update",
-                "sudo apt-get install -y php5 apache2 mysql*"], 
+                "sudo apt-get install -y php5 apache2 mysql-server mysql-client"], 
                 "lab_actions": {
                     "backup": [], 
                     "clean": [], 
